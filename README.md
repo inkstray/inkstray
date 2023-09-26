@@ -1,5 +1,5 @@
 ### Haii <3 👋
-
+![i am not motivated](https://raw.githubusercontent.com/inkstray/inkstray/master/not%20motivated.png)
 <!--
 **straynet/straynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
